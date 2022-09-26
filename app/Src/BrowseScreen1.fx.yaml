@@ -148,7 +148,7 @@
             ZIndex: =3
 
         Body1 As label:
-            Height: =Self.Size * 4
+            Height: =58
             OnSelect: =Select(Parent)
             PaddingBottom: =0
             PaddingLeft: =0
@@ -174,7 +174,7 @@
             TabIndex: =0
             Tooltip: ="View item details"
             Width: =60
-            X: =Parent.TemplateWidth - Self.Width - 5
+            X: =370
             Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
             ZIndex: =5
 
